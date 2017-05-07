@@ -27,8 +27,11 @@ class ViewController: UIViewController {
     
     func onPlaying (){
         var num = Int(numberLabel.text!)!
-        num = num - 1
-        numberLabel.text = String(num)
+        if num > 0 {
+            num = num - 1
+            numberLabel.text = String(num)
+        }
+
     }
     
     @IBAction func minusTen(_ sender: Any) {

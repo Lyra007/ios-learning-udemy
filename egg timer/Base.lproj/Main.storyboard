@@ -55,13 +55,13 @@
                                             <action selector="minusTen:" destination="BYZ-38-t0r" id="YZh-rQ-zwW"/>
                                         </connections>
                                     </barButtonItem>
-                                    <barButtonItem width="114" style="plain" systemItem="fixedSpace" id="eoz-re-YQC"/>
+                                    <barButtonItem style="plain" systemItem="flexibleSpace" id="ANX-md-zVb"/>
                                     <barButtonItem title="Reset" id="iYx-Nb-qed">
                                         <connections>
                                             <action selector="reset:" destination="BYZ-38-t0r" id="se1-AU-FEb"/>
                                         </connections>
                                     </barButtonItem>
-                                    <barButtonItem width="101" style="plain" systemItem="fixedSpace" id="VhB-rQ-K2T"/>
+                                    <barButtonItem style="plain" systemItem="flexibleSpace" id="3p5-W1-WZ8"/>
                                     <barButtonItem title="+10" id="fYS-Eh-LGt">
                                         <connections>
                                             <action selector="plusTen:" destination="BYZ-38-t0r" id="UwV-hR-M2B"/>
